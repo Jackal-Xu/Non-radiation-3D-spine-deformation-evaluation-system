@@ -8,7 +8,7 @@ Example images：
 ![image](https://github.com/Jackal-Xu/Non-radiation-3D-spine-deformation-evaluation-system/blob/master/test2.png)
 ![image](https://github.com/Jackal-Xu/Non-radiation-3D-spine-deformation-evaluation-system/blob/master/test3.png)
 
-The algorithm is purely based on 2D/3D imaging processing and mathematic modeling. We are trying to admit the advanced DL method to optimize the parameter to increase the accuracy and robustness of the system.
+The algorithm is purely based on 2D/3D imaging processing and mathematic modeling(Matlab&C++). We are trying to admit the advanced DL method to optimize the parameter to increase the accuracy and robustness of the system.
 
 By the way, I'm figure out to transfer this technical into product. If anyone wants to devote into the human posture analysis filed, please feel free to cantact me!
 
